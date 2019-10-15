@@ -1,5 +1,7 @@
 <?php
 
+namespace Disapamok;
+
 class SriLanka{
 	
 	public static function getProvinces(){
