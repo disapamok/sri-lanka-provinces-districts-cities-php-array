@@ -1,6 +1,6 @@
 <?php
 
-namespace Disapamok;
+namespace Disapamok\Modules;
 
 class SriLanka{
 	
