@@ -1,0 +1,11 @@
+{
+    "name": "disapamok/SriLanka-Cities",
+    "description": "This has included Sri Lanka's all the provinces, districts, and cities in a PHP array",
+    "type": "PHP Class",
+    "keywords": ["Sri Lanka Cities", "PHP Array"],
+    "license": "BSD-3-Clause",
+    "authors": {
+        "name": "Sahan Dissanayake",
+        "email": "howdy@dizapamok.com"
+    }
+}
