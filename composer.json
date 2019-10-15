@@ -14,7 +14,7 @@
 	"minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
-            "Disapamok\Modules": "src/"
+            "Disapamok\\Modules": "src/"
         }
     }
 }
